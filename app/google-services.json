@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "660456147129",
+    "firebase_url": "https://fir-database-b53a8.firebaseio.com",
+    "project_id": "fir-database-b53a8",
+    "storage_bucket": "fir-database-b53a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660456147129:android:ec4bb982a22faf00",
+        "android_client_info": {
+          "package_name": "com.example.harshil.messengerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660456147129-skldqle7502fu4nm577b8rqo0nbcg17b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.harshil.messengerapp",
+            "certificate_hash": "82ef257eda55b1d57f6b52b932bc305bf0ce7b89"
+          }
+        },
+        {
+          "client_id": "660456147129-t5m74jelu57slei81u9ko1hrvgkrv2jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA88pWw2WulxPJXuGiH4srAzUCW8ThPMX8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "660456147129-t5m74jelu57slei81u9ko1hrvgkrv2jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
